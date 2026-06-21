@@ -1,0 +1,5 @@
+tenure_bucket,total,churned,churn_rate
+Established (6-7),1995,373,18.7
+Loyal (8-10),2499,512,20.49
+Mid (3-5),3010,625,20.76
+New (0-2),2496,528,21.15
